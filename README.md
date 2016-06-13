@@ -1,1 +1,2 @@
-"# semantic-ui-admin-template" 
+# semantic-ui-admin-template
+Just simple admin template with Semantic UI
